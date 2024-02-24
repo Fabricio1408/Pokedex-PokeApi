@@ -1,16 +1,13 @@
 ![GiF](https://pa1.aminoapps.com/6201/cf13ebf8b020cf65090f74bf11bb526f9518c07c_hq.gif)
-# 🎶 POKEDEX-API:
-Imersão Frontend protagonizada pelo grupo Alura, liderada por Guilherme Lima, Fernanda Degolin, Desenvolvedora Front-end na Globo, e Mayara Cardoso, Desenvolvedora Front-end no Itaú. Este projeto visa a criação de um clone do Spotify, utilizando conhecimentos básicos de HTML, CSS e JS de forma bastante explicativa para quem está surgindo na área da programação web, em uma maratona com aulas diárias. Ficarei atualizando diariamente todo o material criado neste repositório.
+# 🌐 POKEDEX-API:
+Projeto idealizado pelo canal Manual do DEV, disponível em "https://www.youtube.com/watch?v=SjtdH3dWLa8&ab_channel=ManualdoDev". Trata-se de uma Pokédex que consome os dados dos Pokémon da https://pokeapi.co/, importando uma gif sprite animada do Pokémon pesquisado através de uma busca pelo ID ou nome do Pokémon.
 
 
 # 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/FETCH-API-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 # 🖼️ Preview: 
-![preview](/assets/playlist/preview.png)
 
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabricio_ribeiro22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/fabricio-da-silva-ribeiro-8b5a12206) 
 
 
 
