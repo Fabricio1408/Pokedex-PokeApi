@@ -21,6 +21,13 @@ body{
 }
 
 
+.titulo{
+    font-family: fontepokemon;
+    color: #FFDE00;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px #3B4CCA, -1px 1px #3B4CCA, 1px 1px 1px #3B4CCA, -1px -1px 1px #3B4CCA;
+    margin-top: 2%;
+    letter-spacing: 2.7px; 
 }
 
 main{
