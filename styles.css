@@ -6,6 +6,11 @@
     box-sizing: border-box;
 
 }
+@font-face {
+    font-family: fontepokemon;
+    src: url(./Pokemon\ Hollow.ttf);
+  }
+
 body{
     text-align: center;
     background: linear-gradient(to bottom, #6ab7f5, #fff);
