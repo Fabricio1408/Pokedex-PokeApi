@@ -12,10 +12,13 @@
   }
 
 body{
+    body{
     text-align: center;
-    background: linear-gradient(to bottom, #6ab7f5, #fff);
-    min-height: 100vh;
     font-family: "Oxanium", cursive;
+    background-image: url('https://pokemonrevolution.net/forum/uploads/monthly_2021_03/DVMT-6OXcAE2rZY.jpg.afab972f972bd7fbd4253bc7aa1cf27f.jpg');
+    background-size: cover;
+    background-attachment: fixed; 
+}
 
 
 }
@@ -93,3 +96,21 @@ main{
     box-shadow: inset -4px 4px 0 #222;
     font-size: 0.9rem;
   }
+
+  .social{
+    align-items: center;
+    font-size: 30px;
+    letter-spacing: 10px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+
+    
+}
+.social a i{
+    transition: transform 0.4s ease;
+    color: #000;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
